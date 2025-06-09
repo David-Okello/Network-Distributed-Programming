@@ -2,6 +2,8 @@
 
 This repository contains a **Bank App** implemented in pure C as part of our Programming Assignment. The application provides basic banking operations through a console-based interface, demonstrating knowledge of data structures, memory management, and fundamental C programming concepts.
 
+Note: My role was to implement the Concurrent Connection oriented (Processes, threads, asynchronous I/O). This repository mainly focuses on that, although I'll still upload my teammates versions of their implementations with time
+
 ## Assignment Overview
 
 > As part of a group project, we are tasked with building a **bank application (V1)** and are required to implement a client server version of the program with client and server running on different machines. We are expected to provide the following variations of the client server program:
