@@ -28,8 +28,9 @@ Before diving into the concurrent aspects, we first needed a working single-thre
 
 ```
 / (root)
-├── main.c          # C source code for the bank app
-└── README.md       # This file
+├── Concurrent Connection oriented (Processes, threads, asynchronous I/O)   # Folder contanining implementation, readme and conceptual server algorithm 
+├── bankapp.c          # C source code for the bank app
+└── README.md          # This file
 ```
 
 ## How to Build & Run
